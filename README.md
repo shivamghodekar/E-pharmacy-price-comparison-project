@@ -14,6 +14,22 @@ The system highlights the **best (lowest) price option** and provides **direct p
 
 ---
 
+## It provides:  
+- 📌 Medicine details (Company, Title, Price)  
+- 🔗 Direct purchase links  
+- 📊 Price comparison charts (Bar & Pie chart)  
+- 🏆 Highlights the **best (lowest price) option**
+
+
+It allows users to:  
+- 📌 Search for medicines  
+- 📈 Compare prices from vendors  
+- 🔗 Access direct purchase links  
+- 📊 View bar & pie chart comparisons  
+- 🏆 Highlight the **best (lowest price) option** 
+  
+---
+
 ## ✨ Features
 - 🔍 **Search medicines** by name  
 - 📊 **Compare multiple options** (user can choose how many results to view)  
@@ -24,6 +40,15 @@ The system highlights the **best (lowest) price option** and provides **direct p
 
 ---
 
+## 🔑 About the API (SerpApi - Google Shopping)
+
+This project uses **[SerpApi](https://serpapi.com/)** to fetch **Google Shopping search results**.  
+
+- **Engine:** `google_shopping`  
+- **Query (`q`)** → Name of the medicine (e.g., "Paracetamol")  
+- **gl (Geo Location):** `in` → India (results specific to India)  
+- **API Key:** Required (free plan provides 100 searches/month)  
+
 ## 🛠️ Tech Stack
 - **Frontend & UI:** [Streamlit](https://streamlit.io/)  
 - **Backend & Data Fetching:** [SerpAPI](https://serpapi.com/) (Google Shopping API)  
@@ -32,8 +57,4 @@ The system highlights the **best (lowest) price option** and provides **direct p
 
 ---
 
-## 🚀 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/e-pharmacy-price-comparison.git
-   cd e-pharmacy-price-comparison
+
