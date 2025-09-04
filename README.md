@@ -6,8 +6,6 @@ The system highlights the **best (lowest) price option** and provides **direct p
 
 ---
 
----
-
 <img width="1350" height="677" alt="image" src="https://github.com/user-attachments/assets/9aba0321-da40-4e81-8088-c5c77e3f6e2a" />
 
 <img width="1350" height="670" alt="image" src="https://github.com/user-attachments/assets/6f78a8f6-d731-4ec8-90e0-0cf3ab13ebcc" />
